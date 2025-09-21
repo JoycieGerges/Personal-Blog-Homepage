@@ -1,44 +1,44 @@
-🌙 Personal Blog Homepage
+# 🌙 Personal Blog Homepage
 
-Personal Blog is a dark-themed responsive blog homepage built with HTML, Tailwind CSS, and JavaScript, designed to help users browse, filter, and search blog posts easily and efficiently.
+Personal Blog is a dark-themed educational-style blog homepage built with HTML, Tailwind CSS, and JavaScript, designed to help users browse, filter, and search blog posts easily and efficiently.
+---
 
-📱 Features
+## 📱 Features
+-🖼️ Browse blog posts in responsive card layout
+-🗂️ Filter posts by category (Tech, Travel, Food)
+-🔍 Search posts by title keywords
+-📄 Pagination (6 posts per page)
+-🎨 Modern dark theme with hover effects
+---
 
-🖼️ View blog posts in responsive cards
+## 🛠️ Tech Stack
+ **HTML** – page structure
 
-🗂️ Filter posts by category (Tech, Travel, Food)
+ **Tailwind CSS** – styling & responsive design
 
-🔍 Search posts by title keywords
+ **JavaScript** – interactivity (filter, search, pagination)
 
-📄 Pagination with 6 posts per page
+ ---
 
-🎨 Modern dark theme with hover effects for interactive cards
+## 🚀 Getting Started
 
-🛠️ Tech Stack
+1.To run the project locally:
 
-HTML – structure of the page
-
-Tailwind CSS – styling and responsiveness
-
-JavaScript – interactivity (filter, search, pagination)
-
-🚀 Getting Started
-
-To run the project locally:
-
-1.Clone the repository:
+Clone the repository:
+```bash
 git clone https://github.com/your-username/personal-blog-homepage.git
+```
 
-2.Open index.html in any web browser
+2.Open index.html in your browser
 
-3.Browse, filter, and search blog posts
+3.Browse, filter, and search posts
 
+---
 
-🧠 Author
+## 🧠 Author
 
 Developed by Joycie Gerges
 
 📧 Email: joyciegerges@gmail.com
-
-🌐 My Portfolio: (Add link)
-🔗 LinkedIn: (Add link)
+🌐 Portfolio: https://joycieportfolio.netlify.app/
+🔗 LinkedIn: www.linkedin.com/in/joycie-gerges-b45514248

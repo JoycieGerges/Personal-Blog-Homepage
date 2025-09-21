@@ -1,6 +1,7 @@
 # 🌙 Personal Blog Homepage
 
 Personal Blog is a dark-themed educational-style blog homepage built with HTML, Tailwind CSS, and JavaScript, designed to help users browse, filter, and search blog posts easily and efficiently.
+
 ---
 
 ## 📱 Features
@@ -9,6 +10,7 @@ Personal Blog is a dark-themed educational-style blog homepage built with HTML, 
 -🔍 Search posts by title keywords
 -📄 Pagination (6 posts per page)
 -🎨 Modern dark theme with hover effects
+
 ---
 
 ## 🛠️ Tech Stack
@@ -40,5 +42,7 @@ git clone https://github.com/your-username/personal-blog-homepage.git
 Developed by Joycie Gerges
 
 📧 Email: joyciegerges@gmail.com
+
 🌐 Portfolio: https://joycieportfolio.netlify.app/
+
 🔗 LinkedIn: www.linkedin.com/in/joycie-gerges-b45514248

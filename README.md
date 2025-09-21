@@ -1,35 +1,44 @@
 🌙 Personal Blog Homepage
 
-A sleek dark-themed blog homepage built with HTML, Tailwind CSS, and JavaScript.
-It showcases posts in a clean card layout with category filters, search, and pagination for easy navigation.
+Personal Blog is a dark-themed responsive blog homepage built with HTML, Tailwind CSS, and JavaScript, designed to help users browse, filter, and search blog posts easily and efficiently.
 
-✨ Features:
+📱 Features
 
-🖼️ Responsive card layout for blog posts
+🖼️ View blog posts in responsive cards
 
 🗂️ Filter posts by category (Tech, Travel, Food)
 
 🔍 Search posts by title keywords
 
-📄 Pagination (6 posts per page)
+📄 Pagination with 6 posts per page
 
-🎨 Modern dark theme with hover animations
+🎨 Modern dark theme with hover effects for interactive cards
 
-🛠️ Tech Stack:
+🛠️ Tech Stack
 
-HTML – structure
+HTML – structure of the page
 
-Tailwind CSS – styling & responsiveness
+Tailwind CSS – styling and responsiveness
 
 JavaScript – interactivity (filter, search, pagination)
 
-🚀 Getting Started:
+🚀 Getting Started
 
-Clone or download the repository
+To run the project locally:
 
+1.Clone the repository:
 git clone https://github.com/your-username/personal-blog-homepage.git
 
+2.Open index.html in any web browser
 
-Open the index.html file in your browser
+3.Browse, filter, and search blog posts
 
-Enjoy browsing posts 🎉
+
+🧠 Author
+
+Developed by Joycie Gerges
+
+📧 Email: joyciegerges@gmail.com
+
+🌐 My Portfolio: (Add link)
+🔗 LinkedIn: (Add link)

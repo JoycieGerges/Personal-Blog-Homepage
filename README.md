@@ -3,7 +3,7 @@
 A sleek dark-themed blog homepage built with HTML, Tailwind CSS, and JavaScript.
 It showcases posts in a clean card layout with category filters, search, and pagination for easy navigation.
 
-✨ Features
+✨ Features:
 
 🖼️ Responsive card layout for blog posts
 
@@ -15,7 +15,7 @@ It showcases posts in a clean card layout with category filters, search, and pag
 
 🎨 Modern dark theme with hover animations
 
-🛠️ Tech Stack
+🛠️ Tech Stack:
 
 HTML – structure
 
@@ -23,7 +23,7 @@ Tailwind CSS – styling & responsiveness
 
 JavaScript – interactivity (filter, search, pagination)
 
-🚀 Getting Started
+🚀 Getting Started:
 
 Clone or download the repository
 
